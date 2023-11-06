@@ -1,0 +1,2 @@
+# Hackintosh
+I5-10400F/H510M/2x8GB 3200Mhz/RX 470/Wifi Intel AX210
